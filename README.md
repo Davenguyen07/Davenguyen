@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davenguyen07&label=Profile%20views&color=0e75b6&style=flat" alt="davenguyen07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davenguyen07" alt="davenguyen07" /></a> </p>
-
 - ⚡ Fun fact **Can work without break but also can sleep more than 16 hours**
 
 <h3 align="left">Connect with me:</h3>
